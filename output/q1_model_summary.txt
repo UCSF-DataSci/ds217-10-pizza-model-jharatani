@@ -1,0 +1,4 @@
+===Model Summary Key Statistics ===
+R-squared: 0.4742647446860965 
+Number of observations: 20640.0 
+AIC: 51221.27779639753

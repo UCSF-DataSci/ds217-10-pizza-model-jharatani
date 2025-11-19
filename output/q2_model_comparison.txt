@@ -1,0 +1,4 @@
+===Linear Regression ===
+Training - R²: 0.6126, Test - R²: 0.5758, RMSE: 0.75
+===Random Forest===
+Training - R²: 0.8050, Test - R²: 0.7389, RMSE: 0.58
